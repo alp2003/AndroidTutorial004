@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AndroidTutorial004</string>
+    <string name="app_name">אפליקציית הדרכה</string>
     <string name="myButton">Jason</string>
     <string name="myButton2">John</string>
     <string name="myPlaneText">Enter name</string>
